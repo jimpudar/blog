@@ -61,12 +61,17 @@ design.
 
 Some other random examples I've found:
 
+- [Bellman Woodworking And Designs](https://www.youtube.com/watch?v=_vsBq4gG6fI)
 - [BigMeat Sunday](https://www.youtube.com/watch?v=sAxnpDejTlQ)
 - [Dogwood Nation](https://www.youtube.com/watch?v=yWkRu6MH_QQ)
+- [Luke Marazzi](https://www.youtube.com/watch?v=HvKA4ikJ4KI)
 - [My Outdoor Plans](https://myoutdoorplans.com/furniture/large-big-green-egg-table-plans/)
+- [Seared and Smoked](https://www.youtube.com/watch?v=2gLcmVipINY)
+- [Smoke & Hammer](https://www.youtube.com/watch?v=bQOkBJ17U5E)
+- [unoriginalusername](https://eggheadforum.com/discussion/1217026/bge-table-build-question)
 
 All these examples so far share a common design decision: they don't use any
-joinery! Instead of designing the structures using wood joints which have
+joinery. Instead of designing the structures using wood joints which have been
 proven to last for hundreds of years, they rely purely on the strength of the
 fasteners used to screw the wood together.
 
@@ -86,9 +91,58 @@ Online](https://www.builderonline.com/building/dear-builders-engineer-nails-or-s
 or simply use a search engine with keywords `shear strength of screws`.
 
 To make matters worse, even the best metal hardware will deteriorate over time
-due to the elements.
+due to the elements. I can't think of a worse way to wake up in fifteen years
+than the sound of ceramic crashing to the ground due to failed wood screws!
+
+Don't get me wrong - I don't intend to call anybody out or suggest that these
+tables won't be up to their intended task. On the contrary, most of these
+tables will likely hold up fine for many years. However, using different
+woodworking techniques we can create furniture which lasts for centuries, not
+decades.
 
 ## Well-designed Tables
 
-- [Mortise and Tenon](https://www.youtube.com/watch?v=HE0uTzmLquU)
-- [Half/Cross Lap](https://www.instructables.com/id/Inexpensive-Strong-Green-Egg-Table/)
+I have been able to find some examples of DIYers who have used some proper
+joinery. The commonality here is that the weight of the cooker is supported by
+wood, not by fasteners. In all these designs the smoker would still be well
+supported if the fasteners were removed and the structures were not subjected
+to any racking forces.
+
+### Mortise and Tenon Joints
+
+The [Mortise and Tenon](https://en.wikipedia.org/wiki/Mortise_and_tenon) joint
+is the mack daddy of frame construction. A hole, or mortise, is cut in one
+piece and a matching insert, or tenon, is cut in the end of the piece to be
+joined to it. The tenon is inserted into the mortise and fixed using glue,
+[wedges](https://www.popularwoodworking.com/projects/wedged-mortise-and-tenon/),
+or
+[drawboring](https://www.popularwoodworking.com/techniques/drawboring-resurrected/).
+
+[Carter Rosenbloom](https://www.youtube.com/watch?v=HE0uTzmLquU) has put
+together a beautiful Big Green Egg table built with mortise and tenon joints.
+
+[DustyMark](https://www.lumberjocks.com/projects/80911) also has some end
+result photos of his mahogany table which was assembled with mortise and tenon
+joints.
+
+[mteele](https://eggheadforum.com/discussion/1146191/custom-built-table-for-large-bge-ipe-wood)
+on the EGGhead forum also posted some PDF plans and photos of his gorgeous Ipe
+wood table using M&T joints. I'd be a little concerned with the breadboard
+ends; depending on how they were glued up the table top could eventually split
+due to the wood movement of the long table pieces.
+
+### Lap Joints
+
+A [Lap Joint](https://en.wikipedia.org/wiki/Lap_joint) is another great joint
+for use in frame construction. In a lap joint, material is removed from one or
+both pieces where they cross or overlap. This joint ensures a lot of
+long-grain surface area meets for a very strong glue up. It doesn't have the
+same resistance to glue failure as a mortise and tenon joint, but with modern
+glues like Titebond III this really isn't a problem.
+
+[jessemckee](https://www.instructables.com/id/Inexpensive-Strong-Green-Egg-Table/)
+of Instructables has written some free plans for a very nice and simple table
+using lap joints. I think he really nailed it with this project!
+
+In my next post, I'll explore some of my own design criteria and work out some
+initial plans.
