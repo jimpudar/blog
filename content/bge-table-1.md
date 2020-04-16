@@ -12,10 +12,10 @@ COVID-19 shelter-in-place guidelines, Melissa and I were recently gifted an
 [XL Big Green Egg](https://biggreenegg.com/xlarge-big-green-egg/) by my
 parents and all my aunts and uncles on my mom's side. A couple of guys from
 [Big George's](https://www.big-georges.com/) delivered the Egg and set it up
-without coming into contact with us. It's a very beautiful cooker that weighs
-just over 200 lbs. To bring it up to comfortable cooking height, it arrived
-with an [EGG Nest](https://biggreenegg.com/product/egg-nest/), a fabricated
-metal pedestal on casters.
+on our deck without coming into contact with us. It's a very beautiful cooker
+that weighs just over 200 lbs. To bring it up to comfortable cooking height,
+it arrived with an [EGG Nest](https://biggreenegg.com/product/egg-nest/), a
+fabricated metal pedestal on casters.
 
 ![The XL Big Green Egg]({photo}bge/IMGP4164.jpg)
 
@@ -27,3 +27,68 @@ I have a few problems with the Nest:
 - The casters are not great
 
 ![The EGG Nest locking caster]({photo}bge/IMGP4165.jpg)
+
+Being a hobbyist woodworker, I naturally want to build my own replacement for
+the EGG Nest. In this post I will examine some of the existing designs
+floating around on the Internet before creating my own set of plans which meet
+my criteria.
+
+## Commercial Nest Alternatives
+
+There are lots of commercial alternatives to the EGG Nest, such as as the
+[Modular Nest EGG Frame](https://biggreenegg.com/product/modular-nests/) or
+the [76 inch Custom Cooking
+Island](https://biggreenegg.com/product/new-76-in-custom-cooking-island/).
+However, these are in my opinion far too expensive.
+
+Also available from Big Green Egg is the [Acacia Hardwood
+Table](https://biggreenegg.com/product/solid-acacia-hardwood-tables/) which is
+what my dad has been using for fifteen years with his egg.
+
+Wooden tables are also available from third party manufacturers such as
+[JJGeorge](https://www.jjgeorgestore.com/long-table-for-xl-big-green-egg/) and
+[J S Designs Shop](http://jsdesignsshop.com/outdoor-furniture/) which are of a
+similar design to the original BGE table.
+
+## DIY Tables
+
+There are countless examples of DIY wooden tables for the Big Green Egg on the
+Internet. For example, the top Google search result for `diy big green egg
+table` will lead you to [Seared and Smoked](https://www.searedandsmoked.com/)
+which has a [video](https://www.youtube.com/watch?v=1R0Obf1DM4w) and
+[plans](https://www.searedandsmoked.com/diy-big-green-egg-table/) for their
+design.
+
+Some other random examples I've found:
+
+- [BigMeat Sunday](https://www.youtube.com/watch?v=sAxnpDejTlQ)
+- [Dogwood Nation](https://www.youtube.com/watch?v=yWkRu6MH_QQ)
+- [My Outdoor Plans](https://myoutdoorplans.com/furniture/large-big-green-egg-table-plans/)
+
+All these examples so far share a common design decision: they don't use any
+joinery! Instead of designing the structures using wood joints which have
+proven to last for hundreds of years, they rely purely on the strength of the
+fasteners used to screw the wood together.
+
+The commercially designed tables likely are made in this manner to make them
+easy to ship and assemble. If large diameter bolts are used to fix the Egg
+platform to the legs, the table will likely be solid and last quite a long
+time. However, if you use regular screws to simply screw the platform to the
+legs as seen in most DIY plans available online, you will be relying on the
+shear strength of the screws.
+
+A common wood screw is very good at squeezing two boards together along its
+axis. The withdrawl or pullout force of a screw is relatively high. However,
+screws are not very good at resisting shear forces perpendicular to their
+axis. You can read more about the differences between shear and pullout
+strength at [Builder
+Online](https://www.builderonline.com/building/dear-builders-engineer-nails-or-screws_o)
+or simply use a search engine with keywords `shear strength of screws`.
+
+To make matters worse, even the best metal hardware will deteriorate over time
+due to the elements.
+
+## Well-designed Tables
+
+- [Mortise and Tenon](https://www.youtube.com/watch?v=HE0uTzmLquU)
+- [Half/Cross Lap](https://www.instructables.com/id/Inexpensive-Strong-Green-Egg-Table/)
