@@ -4,10 +4,11 @@ from __future__ import unicode_literals
 
 AUTHOR = "Jim Pudar"
 SITENAME = "pudar.net"
-SITESUBTITLE = "Jim Pudar's personal weblog"
+# SITESUBTITLE = "Jim Pudar's personal weblog"
 SITEURL = ""
 
-THEME = "../pelican-themes/pelican-simplegrey"
+# THEME = "../pelican-themes/pelican-simplegrey"
+THEME = "simple"
 
 PATH = "content"
 
