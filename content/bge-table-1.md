@@ -10,12 +10,12 @@ Status: published
 
 After our Good Friday Fish Fry / Bridal Shower was canceled due to the
 COVID-19 shelter-in-place guidelines, Melissa and I were recently gifted an
-[XL Big Green Egg](https://biggreenegg.com/xlarge-big-green-egg/) by my
-parents and all my aunts and uncles on my mom's side. A couple of guys from
-[Big George's](https://www.big-georges.com/) delivered the Egg and set it up
-on our deck without coming into contact with us. It's a very beautiful cooker
-that weighs just over 200 lbs. To bring it up to comfortable cooking height,
-it arrived with an [EGG Nest](https://biggreenegg.com/product/egg-nest/), a
+[XL Big Green Egg](https://biggreenegg.com/xlarge-big-green-egg/) by all my
+aunts and uncles on my mom's side. A couple of guys from [Big
+George's](https://www.big-georges.com/) delivered the Egg and set it up on our
+deck without coming into contact with us. It's a very beautiful cooker that
+weighs just over 200 lbs. To bring it up to comfortable cooking height, it
+arrived with an [EGG Nest](https://biggreenegg.com/product/egg-nest/), a
 fabricated metal pedestal on casters.
 
 ![The XL Big Green Egg]({photo}bge/IMGP4164.jpg)
