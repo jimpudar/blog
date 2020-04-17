@@ -1,5 +1,6 @@
 Title: Big Green Egg Table: Design 1
 Date: 2020-04-15
+Updated: 2020-04-17
 Category: Woodworking
 Tags: woodworking
 Slug: bge-table-1
@@ -61,6 +62,7 @@ design.
 
 Some other random examples I've found:
 
+- [Andys Werkstatt](https://youtu.be/VTpsrRHx3Cc?t=1338)
 - [Bellman Woodworking And Designs](https://www.youtube.com/watch?v=_vsBq4gG6fI)
 - [BigMeat Sunday](https://www.youtube.com/watch?v=sAxnpDejTlQ)
 - [Dogwood Nation](https://www.youtube.com/watch?v=yWkRu6MH_QQ)
