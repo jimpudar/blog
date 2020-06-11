@@ -8,7 +8,7 @@ SITENAME = "pudar.net"
 SITEURL = ""
 
 # THEME = "../pelican-themes/pelican-simplegrey"
-THEME = "simple"
+# THEME = "simple"
 
 PATH = "content"
 
@@ -49,6 +49,8 @@ DEFAULT_PAGINATION = 10
 
 # Uncomment following line if you want document-relative URLs when developing
 # RELATIVE_URLS = True
+
+DISPLAY_PAGES_ON_MENU = True
 
 PLUGIN_PATHS = ["../pelican-plugins"]
 PLUGINS = ["photos"]

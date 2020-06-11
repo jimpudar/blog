@@ -20,7 +20,7 @@ and some more from Atlassian's [Developer
 Blog](https://www.jetbrains.com/help/idea/using-emacs-as-an-external-editor.html#)
 and came up with something that works for me.
 
-![Screenshot of External Tool dialog](images/screenshots/magit-external-tool-screenshot.png)
+![Screenshot of External Tool dialog]({photo}screenshots/magit-external-tool-screenshot.png)
 
 ```text
 Program:            /usr/local/bin/emacsclient
