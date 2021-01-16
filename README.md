@@ -23,3 +23,8 @@ poetry run pelican --listen
 [http://localhost:8000](http://localhost:8000)
 
 ## Deploy
+
+```bash
+poetry run make publish
+poetry run make rsync_upload
+```
