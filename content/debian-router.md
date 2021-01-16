@@ -1,30 +1,30 @@
-Title: Adventures in Building a Debian Router: The Old
+Title: Adventures in Rolling Your Own Router: Part I
 Date: 2021-01-16
 Category: Development
-Tags: router, debian, pihole
-Slug: debian-router
+Tags: router, arch, linux, debian, pihole
+Slug: router-part-1
 Author: Jim Pudar
-Summary: Details on my old router configuration
+Summary: Details of my old router configuration
 Status: published
 
 I've been rolling my own router / firewall solution for several years now. I
-started out using OpenBSD, but even though I loved of `pf` I eventually
-switched over to Arch Linux. Throughout all these years, I've been using
-PiHole installed on a Raspberry Pi 3 for DNS based ad-blocking.
+started out using OpenBSD, but even though I loved `pf` I eventually switched
+over to Arch Linux. Throughout all these years, I've been using PiHole
+installed on a Raspberry Pi 3 for DNS based ad-blocking.
 
 My Arch based router is getting a little crufty, and my documentation is
 sparse (thanks, past me!), so I have decided now is a good time to start from
-scratch with Debian, documenting the entire process from start to finish.
+scratch, documenting the entire process from start to finish.
 
-The goal is to end up with a Debian based router / firewall running PiHole for
-DNS/DHCP and using native systemd services wherever possible. I would also
-like the total power drawn by my router / switch / access point to be reduced.
+The goal is to end up with a router / firewall running PiHole for DNS/DHCP and
+using native systemd services wherever possible. I would also like the total
+power drawn by my router / switch / access point to be reduced.
 
 In this first post, I'll describe my current system.
 
 # Hardware
 
-I'll outline everything plugged into my [APC
+I'll list everything plugged into my [APC
 UPS](https://www.apc.com/shop/us/en/products/APC-Power-Saving-Back-UPS-Pro-1500/P-BR1500G).
 The power draw of all these components will determine how long my WiFi stays
 online during a power outage.
@@ -68,11 +68,11 @@ hot, I've been extremely happy with this card.
 
 ### RAM
 
-I cannibalized 8G of RAM from an old machine.
+I reused 8G of RAM from an old machine.
 
 ### Disk
 
-I cannibalized a 128G SSD from an old machine.
+I reused a 128G SSD from an old machine.
 
 ### Case
 
@@ -88,13 +88,18 @@ There is one 120mm fan at the front blowing air over the CPU heatsink and
 through the PSU and one 80mm fan pointed directly at the heatsink on the
 network card.
 
+I am a loyal Noctua fan-boy (groan) because they make quietest fans I've ever
+used. I've never had one fail on me, and the sickly brown color scheme has
+been transformed in my mind from a downside to a badge of honor.
+
 ## Switch
 
 Based on the heat output, this [Buffalo 16 Port Smart
 Switch](https://www.amazon.com/gp/product/B00OLUMLPM) is using a lot of power.
-After my most recent cleanup, I'm only using 7 ports so I will be able to
-replace this with a smaller 8 port switch that should hopefully reduce power
-consumption.
+I'm only using 8 ports, so I will be able to replace this with a smaller 8
+port switch that should hopefully reduce power consumption. Since I'm getting
+rid of the Raspberry Pi, I'll still have one port left free in case I need to
+plug in anything else.
 
 ## Access Point
 
