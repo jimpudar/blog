@@ -162,9 +162,10 @@ The not so great things:
 
 My `iptables` rules:
 
-(Note: I seem to have port 53 open for UDP and TCP. I think this is an error,
-as my DNS server should only be accessible from inside the LAN. I also
-shouldn't have UDP port 67 open. This is what I meant by "crufty"...)
+(Note: I seem to have port 53 open for UDP and TCP on both the internal and
+external interfaces. I think this is an error, as my DNS server should only be
+accessible from inside the LAN. I also shouldn't have UDP port 67 open to the
+external interface. This is what I meant by "crufty"...)
 
 <!-- markdownlint-disable line-length -->
 ```text
