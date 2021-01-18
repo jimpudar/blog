@@ -14,7 +14,7 @@ the new router. In this post, I'll create a virtual router, LAN, and client in
 order to test out my plan for the Debian router.
 
 This is easy to accomplish using Cockpit on RHEL, but you can do this on any
-Linux distribution with the
+Linux distribution.
 
 # Debian Installation
 
