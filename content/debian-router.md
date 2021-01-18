@@ -268,4 +268,5 @@ Furthermore, because the PiHole is also the DNS server, I get the added
 benefit of being able to do DNS lookups of any host from any other host on the
 network without having to modify any of the clients' `/etc/hosts` files.
 
-In my next post, I'll describe my plan for the new router.
+In my [next post]({filename}/debian-router-2.md), I'll describe my plan for
+the new router.

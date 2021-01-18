@@ -1,11 +1,14 @@
 Title: Adventures in Rolling Your Own Router: Part II
-Date: 2021-01-16
+Date: 2021-01-17
 Category: Development
 Tags: router, arch, linux, debian, pihole
 Slug: router-part-2
 Author: Jim Pudar
 Summary: Plans for the new router
 Status: published
+
+In my [previous post]({filename}/debian-router.md), I described my current
+home-brewed router. In this post, I'll describe my plan for the new router.
 
 <!-- markdownlint-disable no-trailing-punctuation -->
 # What OS?
@@ -83,5 +86,5 @@ I've never used [`nftables`](https://wiki.debian.org/nftables), but since this
 is the [immediate future](https://lwn.net/Articles/747551/) I'll take this as
 an opportunity to learn.
 
-In the next post, I'll set up some VMs and try setting this up before doing it
-on my physical network.
+In the [next post]({filename}/debian-router-3.md), I'll set up some VMs and
+try setting this up before doing it on my physical network.
