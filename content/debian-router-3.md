@@ -4,7 +4,7 @@ Category: Development
 Tags: router, arch, linux, debian, pihole
 Slug: router-part-3
 Author: Jim Pudar
-Summary: Virtual router testing
+Summary: Building a virtual router
 Status: published
 
 <!-- markdownlint-disable line-length no-trailing-punctuation -->
@@ -230,5 +230,5 @@ listening on any, link-type LINUX_SLL (Linux cooked), capture size 262144 bytes
 
 Looks like it's routing packets!
 
-In the next post, I'll investigate what's going on with `nftables` and start
-working on the firewall.
+In the [next post]({filename}/debian-router-4.md), I'll investigate what's
+going on with `nftables` and remove these `iptables-legacy` rules.
