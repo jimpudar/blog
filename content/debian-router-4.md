@@ -115,4 +115,5 @@ table ip nat {
 }
 ```
 
-In the next post, we will create a simple firewall using `nftables`.
+In the [next post]({filename}/debian-router-5.md), we will create a simple
+firewall using `nftables`.
