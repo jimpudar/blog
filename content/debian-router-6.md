@@ -248,5 +248,6 @@ Finally, we can install the firewall rules using another call to the
         lan_network: "192.168.100.0/24"
 ```
 
-At this point, we should have a working router. In the next post, I'll attempt
-to install Pi-hole without messing up anything we have done so far.
+At this point, we should have a working router. In the [next
+post]({filename}/debian-router-7.md), I'll attempt to install Pi-hole without
+messing up anything we have done so far.
