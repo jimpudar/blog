@@ -121,4 +121,5 @@ PING6(56=40+8+8 bytes) fe80::874:cee0:e328:8115%en0 --> fe80::5054:ff:fec7:caa6
 16 bytes from fe80::5054:ff:fec7:caa6%en0, icmp_seq=3 hlim=64 time=0.442 ms
 ```
 
-In the next post, I'll install PiHole for DNS and DHCP service.
+In the [next post]({filename}/debian-router-6.md), I'll install PiHole for DNS
+and DHCP service.
